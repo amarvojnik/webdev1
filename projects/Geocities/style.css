@@ -1,0 +1,105 @@
+body{
+    background-image: url(https://cutewallpaper.org/21/geocities-backgrounds/My-Creation-One-Terabyte-of-Kilobyte-Age.jpg)
+}
+h1{
+    background-color: gold;
+    margin: 0;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    
+}
+h2{
+    background-color: rgb(252, 148, 29);
+    text-align: center;
+    margin: 0;
+}
+nav{
+   background-color: rgb(252, 148, 29);
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 10px;
+}
+.redcar{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvU-RxQtPW0VchXr9EX5uAealtc8FHtfF8w&usqp=CAU);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 75px;
+    margin-left: 50px;
+    margin-bottom: -35px;
+    color: navyblue;
+    border:  ridge rgb(252, 148, 29) 5px;
+    width: 350px;
+    padding: 5px;
+}
+
+.bee{
+    width: 400;
+    margin-left: 500px;
+    margin-top: -1000px ;
+}
+
+.sideswipe{
+    width: 500px;
+    height: auto;
+    margin-top: 75px;
+    position:absolute;
+    left: 150px;
+}
+
+.ss{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvU-RxQtPW0VchXr9EX5uAealtc8FHtfF8w&usqp=CAU);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 150px;
+    margin-left: 750px;
+    color: navyblue;
+    border:  ridge rgb(252, 148, 29) 5px;
+    width: 400px;
+    padding: 10px
+}
+
+.optimusprime{
+    margin-top: 150px;
+    margin-left: 850px;
+
+}
+
+.OP{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLvU-RxQtPW0VchXr9EX5uAealtc8FHtfF8w&usqp=CAU);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -240px;
+    margin-left: 300px;
+    color: navyblue;
+    border:  ridge rgb(252, 148, 29) 5px;
+    width: 400px;
+    padding: 10px
+}
+
+.forest{
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 100px;
+}
+
+.portrait{
+    position: absolute;
+    margin-top: 40px;
+}
+
+.car{
+    position: absolute;
+    left: 1100px;
+    margin-top: 100px;
+}
+
+.footer{
+    color: aliceblue;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 150px;
+    border: 5px solid rgb(252, 148, 29);
+  }
+    
+}
