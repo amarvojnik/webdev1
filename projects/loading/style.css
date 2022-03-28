@@ -6,7 +6,6 @@ body{
     background-color: blueviolet;
 }
 
-
 .circle {
     width: 50px;
     height: 50px;
@@ -14,7 +13,7 @@ body{
     border-radius: 50%;
     position: relative;
     left: 50%;
-    animation: bounce 0.9s infinite
+    animation: bounce 0.9s infinite;
 }
 @keyframes bounce{
     10%{
@@ -31,7 +30,7 @@ body{
     
     50%{
         height:30px;
-        width: 50px;px;
+        width: 50px;
         transform: translateY(250px)
     }
     
