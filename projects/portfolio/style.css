@@ -1,0 +1,29 @@
+
+
+h1 {
+    color: orange;
+}
+body{
+    background-image: linear-gradient(#00008b, orangered);
+}
+
+header{
+    color: lightblue
+}
+
+
+a:link {
+    color: red;
+  }
+  
+  a:visited {
+    color: orange;
+  }
+  
+  a:hover {
+    color: hotpink;
+  }
+  
+  a:active {
+    color: blue;
+  }
